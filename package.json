@@ -1,0 +1,49 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@react-native-community/masked-view": "^0.1.10",
+    "@react-navigation/drawer": "^5.12.3",
+    "@react-navigation/material-bottom-tabs": "^5.3.13",
+    "@react-navigation/material-top-tabs": "^5.3.13",
+    "@react-navigation/native": "^5.9.2",
+    "@react-navigation/stack": "^5.14.2",
+    "axios": "^0.21.1",
+    "curved-bottom-navigation-bar": "^2.0.1",
+    "expo": "~40.0.0",
+    "expo-font": "~8.4.0",
+    "expo-google-sign-in": "~8.4.0",
+    "expo-linear-gradient": "~8.4.0",
+    "expo-status-bar": "~1.0.3",
+    "react": "^17.0.1",
+    "react-dom": "16.13.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-40.0.1.tar.gz",
+    "react-native-auto-placeholder-loading": "0.0.1",
+    "react-native-autofocus": "0.0.7",
+    "react-native-bottom-modal": "^0.5.6",
+    "react-native-gesture-handler": "^1.8.0",
+    "react-native-linear-gradient": "^2.5.6",
+    "react-native-paper": "^4.7.1",
+    "react-native-raw-bottom-sheet": "^2.2.0",
+    "react-native-reanimated": "^1.9.0",
+    "react-native-safe-area-context": "^3.1.9",
+    "react-native-screens": "^2.15.2",
+    "react-native-star-rating-new": "^1.0.3",
+    "react-native-svg": "12.1.0",
+    "react-native-tab-view": "^2.15.2",
+    "react-native-toast-message": "^1.4.7",
+    "react-native-web": "~0.13.12",
+    "react-spring": "^8.0.27",
+    "rn-radio-button": "^1.0.2"
+  },
+  "devDependencies": {
+    "@babel/core": "~7.9.0"
+  },
+  "private": true
+}

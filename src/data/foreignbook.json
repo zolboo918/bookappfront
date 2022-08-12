@@ -1,0 +1,79 @@
+{
+  "accessInfo": {
+    "accessViewStatus": "NONE",
+    "country": "MN",
+    "embeddable": false,
+    "epub": {
+      "isAvailable": false
+    },
+    "pdf": {
+      "isAvailable": false
+    },
+    "publicDomain": false,
+    "quoteSharingAllowed": false,
+    "textToSpeechPermission": "ALLOWED",
+    "viewability": "NO_PAGES",
+    "webReaderLink": "http://play.google.com/books/reader?id=i_SorqUvsOEC&hl=&printsec=frontcover&source=gbs_api"
+  },
+  "etag": "kvJuf8sdtmg",
+  "id": "i_SorqUvsOEC",
+  "kind": "books#volume",
+  "saleInfo": {
+    "country": "MN",
+    "isEbook": false,
+    "saleability": "NOT_FOR_SALE"
+  },
+  "searchInfo": {
+    "textSnippet": "The kingdom of the royal Stark family faces its ultimate challenge in the onset of a generation-long winter, the poisonous plots of the rival Lannisters, the emergence of the Neverborn demons and the arrival of barbarian hordes. 75,000 ..."
+  },
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/i_SorqUvsOEC",
+  "volumeInfo": {
+    "allowAnonLogging": false,
+    "authors": [
+      "Daniel Abraham",
+      "George R. R. Martin",
+      "Tommy Patterson",
+      "Ivan Nunes",
+      "Marshall Dillon"
+    ],
+    "averageRating": 3,
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Game_of_Thrones.html?hl=&id=i_SorqUvsOEC",
+    "categories": ["Comics & Graphic Novels"],
+    "comicsContent": true,
+    "contentVersion": "2.2.0.0.preview.0",
+    "description": "The kingdom of the royal Stark family faces its ultimate challenge in the onset of a generation-long winter, the poisonous plots of the rival Lannisters, the emergence of the Neverborn demons and the arrival of barbarian hordes. 75,000 first printing.",
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=i_SorqUvsOEC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=i_SorqUvsOEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "industryIdentifiers": [
+      {
+        "identifier": "9780440423218",
+        "type": "ISBN_13"
+      },
+      {
+        "identifier": "044042321X",
+        "type": "ISBN_10"
+      }
+    ],
+    "infoLink": "http://books.google.com/books?id=i_SorqUvsOEC&dq=%7BGame+of+thrones+%7D&hl=&source=gbs_api",
+    "language": "en",
+    "maturityRating": "NOT_MATURE",
+    "pageCount": 240,
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "previewLink": "http://books.google.com/books?id=i_SorqUvsOEC&dq=%7BGame+of+thrones+%7D&hl=&cd=3&source=gbs_api",
+    "printType": "BOOK",
+    "publishedDate": "2012",
+    "publisher": "Bantam",
+    "ratingsCount": 10,
+    "readingModes": {
+      "image": false,
+      "text": false
+    },
+    "subtitle": "The Graphic Novel. Volume 1",
+    "title": "A Game of Thrones"
+  }
+}

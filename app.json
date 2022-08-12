@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "Book Note",
+    "slug": "bookNoteApp",
+    "version": "1.0.2",
+    "orientation": "portrait",
+    "icon": "./assets/icon3.png",
+    "splash": {
+      "image": "./assets/splash3.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "mn.zolboo.bookapp",
+      "buildNumber": "1.0.2",
+      "config": {
+        "googleSignIn": {
+          "reservedClientId": "com.googleusercontent.apps.930248550113-h8c32um6erejqklrsk2rq8s5i0jm1jmo"
+        }
+      }
+    },
+    "android": {
+      "versionCode": 3,
+      "useNextNotificationsApi": true,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon3.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "softwareKeyboardLayoutMode": "pan",
+      "package": "com.zolboo918.bookapp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Уншсан номын тэмдэглэл хөтлөх бусад ном дээр сэтгэгдэл солилцох гар утасны аппликешн"
+  }
+}

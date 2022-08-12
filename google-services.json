@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "930248550113",
+    "project_id": "book-note-app",
+    "storage_bucket": "book-note-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930248550113:android:3982b1e32112a54a3cf9a0",
+        "android_client_info": {
+          "package_name": "com.zolboo918.bookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930248550113-er4b5vnb6b2eag04tll7ehv8llvcm2gr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zolboo918.bookapp",
+            "certificate_hash": "c648894009c00946e00febffb8408eaa920628ea"
+          }
+        },
+        {
+          "client_id": "930248550113-ds8kipnvqm8d0eug99psur2ht9h7av05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcXG9gmCEcf1BIXrAxBAi3tnJ1kNwg7ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930248550113-ds8kipnvqm8d0eug99psur2ht9h7av05.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "930248550113-h8c32um6erejqklrsk2rq8s5i0jm1jmo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mn.zolboo.bookapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
